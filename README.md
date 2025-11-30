@@ -3,7 +3,7 @@
 
 1.  **Clone หรือ Download** โปรเจกต์นี้ลงในเครื่องคอมพิวเตอร์
     ```bash
-    git clone [https://github.com/your-username/web-bmi-tracker.git](https://github.com/your-username/web-bmi-tracker.git)
+    git clone https://github.com/Monkung07/BMI2.git
     ```
 2.  เปิดไฟล์ `index.html` ผ่าน Web Browser (เช่น Chrome, Edge, Safari)
 3.  เริ่มใช้งานได้ทันที!
